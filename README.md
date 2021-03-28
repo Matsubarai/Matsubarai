@@ -3,5 +3,5 @@
 - Research Interests: 
 - 💻 Computer Architecture (for now)
 - ☯️ Operating System, Linux Kernel
-- 📚 Knowledge Graph
+- 📚 Knowledge Graph, Representation Learing
 - 🗣 Neural Language Processing
