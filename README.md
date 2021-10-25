@@ -4,4 +4,3 @@
 - 💻 Computer Architecture (learning now)
 - ☯️ Operating System, Linux Kernel
 - 📚 Graph Representation Learning
-- 🗣 Neural Language Processing
