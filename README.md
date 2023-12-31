@@ -1,6 +1,6 @@
 ### 刬却君山好，平铺湘水流。巴陵无限酒，醉杀洞庭秋。
 
-**Hi there!👋** I'm a research student in the Energy Efficient Intelligent Computing Lab, USTC, led by Prof. Xuehai Zhou.
+**Hi there!👋** I'm Qianyu Cheng (程 乾宇), currently a research student with the Energy Efficient Intelligent Computing Lab at USTC, led by Prof. Xuehai Zhou.
 
 💡 **Research Interests**
 
